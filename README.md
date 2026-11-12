@@ -224,6 +224,7 @@ For visitors who arrived here from search: this tool is also referred to as a **
 
 - Open an issue on this repo for bug reports - please include your run input
 - Actor page on Apify: [apify.com/Turboextract/b2b-lead-enrichment-pipeline](https://apify.com/Turboextract/b2b-lead-enrichment-pipeline)
+- Community Discord: [discord.gg/8SrXSCpvgj](https://discord.gg/8SrXSCpvgj) - updates, support and feature requests
 - Maintained by [Turboextract](https://apify.com/Turboextract) on the Apify platform
 
 ## License
