@@ -1,0 +1,59 @@
+[
+  {
+    "domain": "apify.com",
+    "companyName": "Apify",
+    "description": "Thousands of tools to automate your business. Get real-time web data, track competitors, generate leads, and integrate your apps and AI agents.",
+    "techStack": [
+      "React",
+      "Next.js",
+      "HubSpot",
+      "Intercom",
+      "Google Analytics",
+      "Google Tag Manager"
+    ],
+    "emails": [
+      "hello@apify.com"
+    ],
+    "phones": [],
+    "linkedin": "http://linkedin.com/company/apify/",
+    "twitter": "https://x.com/apify",
+    "facebook": null,
+    "instagram": null,
+    "youtube": null,
+    "github": "https://github.com/apify",
+    "aboutExcerpt": "About Apify We’re building the world’s largest platform for web data and tools for AI builders. Legal info Founded in 2015 Apify was launched by Jan Čurn and Jakub Balada in 2015 from the Y Combinator Fellowship in Mountain View, California. The original idea was to make it easy for developers to build flexible and scalable web crawlers simply using front-end JavaScript, thanks to the back-then new headless browser technology. Apify origin story Built with ❤️ and 🍺 in Prague In 2016, the team moved back to the Czech Republic, raised a seed investment, and started building a company around its ... [truncated]",
+    "pagesScraped": [
+      "contact",
+      "home",
+      "about"
+    ],
+    "enrichedAt": "2026-11-12T20:49:39.506Z"
+  },
+  {
+    "domain": "linear.app",
+    "companyName": "Linear – The system for product development",
+    "description": "Purpose-built for planning and building products with AI agents.",
+    "techStack": [
+      "React",
+      "Next.js",
+      "Intercom"
+    ],
+    "emails": [
+      "hello@linear.app"
+    ],
+    "phones": [],
+    "linkedin": null,
+    "twitter": "https://x.com/linear",
+    "facebook": null,
+    "instagram": null,
+    "youtube": "https://www.youtube.com/@linear",
+    "github": "https://github.com/linear",
+    "aboutExcerpt": "Building tools for the next era of product development AI is fundamentally changing how products get built. We are shaping what comes next. Elapsed 00:00 Seek to: 00:00 / Duration 03:18 Remaining −03:18 0.25× 0.5× 0.75× 1× 1.25× 1.5× 1.75× 2× A new species of product tool Software development is at an inflection point. Artificial intelligence is fundamentally reshaping how products are built. AI increases what teams can create, but it also raises the bar for clarity and coordination. At Linear, we are building the tools for this new era of product development. A purpose-built system where team ... [truncated]",
+    "pagesScraped": [
+      "contact",
+      "home",
+      "about"
+    ],
+    "enrichedAt": "2026-11-12T20:49:39.591Z"
+  }
+]
